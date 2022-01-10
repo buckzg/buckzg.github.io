@@ -1,2 +1,2 @@
 # buckzg.github.io
-CODE Revised by HBS7, based on NIGHT-King and Karo218's Jailbreak Loader.
+Customized by HBS7 a.k.a. RaldS05 for BuckyBuckzGaming, based on NIGHT-King and Karo218's Jailbreak Loader.
